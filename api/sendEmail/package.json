@@ -1,9 +1,0 @@
-{
-  "name": "send-email",
-  "version": "1.0.0",
-  "description": "Azure Function to handle contact form",
-  "scripts": {
-    "start": "func start"
-  },
-  "dependencies": {}
-}
