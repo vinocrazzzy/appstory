@@ -1,0 +1,9 @@
+{
+  "name": "track-download",
+  "version": "1.0.0",
+  "description": "Azure Function to track resume downloads",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {}
+}
